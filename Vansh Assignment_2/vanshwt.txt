@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <div style="width: 1280px; height: 832px; position: relative; background: black">
+            <img style="width: 1009px; height: 300px; left: 220px; top: 266px; position: absolute" src="c:\Users\91955\Desktop\vansh wt\image\hero_endframe__ea0qze85eyi6_medium.jpg" />
+            <div style="width: 931px; height: 37px; left: 168px; top: 55px; position: absolute; color: white; font-size: 18px;text-indent: 50px; font-family; word-spacing: 10px;  Inter; font-weight: 400; word-wrap: break-word">Store     Mac     iPad     iPhone     Watch     AirPods     TV & Home     Entertainment     Accessories     Support</div>
+            <div style="width: 28px; height: 32px; left: 103px; top: 48px; position: absolute; background: white"></div>
+            <div style="width: 39px; height: 32px; left: 1137px; top: 48px; position: absolute; background: white"></div>
+            <div style="width: 174px; height: 29px; left: 103px; top: 125px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 800; word-wrap: break-word">MacBook Air</div>
+            <div style="left: 532px; top: 780px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 800; word-wrap: break-word">From ₹99900.00*</div>
+            <div style="left: 433px; top: 727px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 700; word-wrap: break-word">Supercharged by the Apple M1 chip</div>
+            <div style="left: 25px; top: 628px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">MacBook Air with M1 is an incredibly portable laptop — it’s nimble and quick, with a silent, fanless design<br/> and a beautiful Retina display. Thanks to its slim profile and all‑day battery life, this Air moves at the<br/> speed of lightness.</div>
+            <div style="left: 441px; top: 568px; position: absolute; color: white; font-size: 40px; font-family: Inter; font-weight: 800; word-wrap: break-word">Power. It’s in the Air.</div>
+            <div style="left: 564px; top: 527px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 800; word-wrap: break-word">MacBook Air</div>
+          </div>
+    </header>
+    <div style="width: 1280px; height: 832px; position: relative; background: black">
+        <img style="width: 360px; height: 385px; left: 460px; top: 387px; position: absolute" src="c:\Users\91955\Desktop\vansh wt\image\apple_silicon_endframe__forvi6ykwn6m_large.jpg" />
+        <div style="left: 171px; top: 228px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">M1 is our first chip designed specifically for Mac. Apple silicon integrates the CPU, <br/>GPU, Neural Engine, I/O and so much more onto a single tiny chip. Packed with an<br/> astonishing 16 billion transistors, M1 delivers exceptional performance, custom<br/> technologies and unbelievable power efficiency — a major breakthrough for Mac.</div>
+        <div style="left: 377px; top: 99px; position: absolute; color: white; font-size: 48px; font-family: Inter; font-weight: 800; word-wrap: break-word">Small chip. Giant leap.</div>
+      </div>
+      <div style="width: 1280px; height: 832px; position: relative; background: linear-gradient(180deg, #7C4EDE 0%, #432A78 34%)">
+        <img style="width: 696px; height: 553px; left: 584px; top: 212px; position: absolute"src="C:\Users\91955\Desktop\vansh wt\image\processor__gb8d1ide5126_large.png" />
+        <div style="left: 56px; top: 43px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 800; word-wrap: break-word">CPU</div>
+        <div style="left: 56px; top: 489px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 400; word-wrap: break-word">The CPU on M1 isn’t just astonishingly fast<br/> it balances high-performance cores with<br/> efficiency cores that crush everyday jobs<br/> while using far less energy. With that kind<br/> of processing power, MacBook Air can take<br/> on intensive tasks like professional-level<br/> video editing and action-packed gaming.</div>
+        <div style="width: 455px; height: 174px; left: 57px; top: 242px; position: absolute"><span style="color: #A277FF; font-size: 48px; font-family: Inter; font-weight: 800; word-wrap: break-word">8-core CPU <br/></span><span style="color: white; font-size: 48px; font-family: Inter; font-weight: 800; word-wrap: break-word">Devours tasks. <br/>Sips battery.</span></div>
+      </div>
+      <div style="width: 1280px; height: 832px; position: relative; background: linear-gradient(180deg, #7C4EDE 0%, #432A78 37%)">
+        <img style="width: 696px; height: 553px; left: 0px; top: 212px; position: absolute" src="C:\Users\91955\Desktop\vansh wt\image\machine_learning__d8u6dxf5xawm_large.png" />
+        <div style="left: 60px; top: 46px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 800; word-wrap: break-word">Machine learning</div>
+        <div style="left: 670px; top: 318px; position: absolute; color: white; font-size: 26px; font-family: Inter; font-weight: 500; word-wrap: break-word">A 16-core Neural Engine capable of 11 trillion<br/> operations per second. Process that. Apps on<br/> MacBook Air can use machine learning (ML)<br/> to automatically retouch photos like a pro,<br/> make smart tools such as magic wands and <br/>audio filters more accurate at auto‑detection,<br/> and so much more. That’s not just brainpower <br/> that’s the power of a full stack of ML <br/>technologies.</div>
+      </div>
+      <div style="width: 1280px; height: 832px; position: relative; background: linear-gradient(180deg, #7C4EDE 0%, #432A78 37%)">
+        <img style="width: 696px; height: 553px; left: 584px; top: 211px; position: absolute" src="C:\Users\91955\Desktop\vansh wt\image\macos__kp74urneu7u6_large.png" />
+        <div style="left: 70px; top: 227px; position: absolute; color: rgb(255, 255, 255); font-size: 48px; font-family: Inter; font-weight: 700; word-wrap: break-word">The power of<br/>macOS on M1.</div>
+        <div style="left: 70px; top: 416px; position: absolute"><span style="color: white; font-size: 24px; font-family: Inter; font-weight: 700; word-wrap: break-word">macOS unlocks the potential of the M1<br/>chip and transforms Mac with all-new<br/>ways to work and play. Connect, share<br/>and create like never before using <br/>FaceTime and Messages. Explore the<br/>web on the streamlined Safari, the<br/>fastest browser in the world.</span><span style="color: white; font-size: 24px; font-family: Inter; font-weight: 700; text-decoration: underline; word-wrap: break-word">2</span><span style="color: white; font-size: 24px; font-family: Inter; font-weight: 700; word-wrap: break-word"> And<br/>work across Mac and your other Apple<br/>devices with Universal Control. macOS<br/>also includes industry-leading privacy <br/>features and best‑in‑class security.</span></div>
+        <div style="left: 70px; top: 48px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 800; word-wrap: break-word">macOS</div>
+      </div>
+      <div style="width: 1280px; height: 832px; position: relative; background: linear-gradient(180deg, #7C4EDE 0%, #432A78 37%)">
+        <img style="width: 702px; height: 435px; left: 289px; top: 397px; position: absolute; mix-blend-mode: difference" src="C:\Users\91955\Desktop\vansh wt\image\retina_hero_hardware__9kvr0t8uir6u_large.jpg" />
+        <img style="width: 589px; height: 383px; left: 345px; top: 408px; position: absolute; border-radius: 10px" src="C:\Users\91955\Desktop\vansh wt\image\retina_hero_screen__33bifaqqnv6e_large.jpg" />
+        <div style="left: 341px; top: 201px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">Images take on new levels of detail and realism on the brilliant<br/>33.74 cm (13.3”), 2560x1600-resolution Retina display. Text <br/>is sharp and clear. Colours are bright and vibrant. And the <br/>glass goes right to the edge of the enclosure, so nothing takes<br/>away from your gorgeous view.</div>
+        <div style="left: 472px; top: 22px; position: absolute; color: white; font-size: 40px; font-family: Inter; font-weight: 500; word-wrap: break-word">Retina display<br/>Lifelike colours<br/>for unreal beauty.</div>
+      </div>
+      <div style="width: 1280px; height: 832px; position: relative; background: black">
+        <img style="width: 812px; height: 467px; left: 234px; top: 315px; position: absolute" src="C:\Users\91955\Desktop\vansh wt\image\magic_keyboard__pewz4toce72a_large.jpg" />
+        <div style="left: 243px; top: 157px; position: absolute; color: white; font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">When a keyboard types like a dream and still does a whole lot more, that’s magic. <br/>With pre-programmed shortcuts, useful features are easy to access. Get help from <br/>Siri, switch keyboard languages, respond with the perfect emoji, find documents <br/>with Spotlight — there’s so much you can do with just a tap. And the backlit keys <br/>with ambient light sensor help you type in low‑light settings.</div>
+        <div style="left: 400px; top: 26px; position: absolute; color: white; font-size: 40px; font-family: Inter; font-weight: 500; word-wrap: break-word">Magic Keyboard<br/>Go ahead. Take the keys.</div>
+      </div>
+      <div style="width: 1280px; height: 832px; position: relative; background: white">
+        <img style="width: 1280px; height: 832px; left: 0px; top: 0px; position: absolute" src="C:\Users\91955\Desktop\vansh wt\image\color_bg__gluvmsph8ymy_large.jpg" />
+        <div style="left: 768px; top: 470px; position: absolute; color: white; font-size: 30px; font-family: Inter; font-weight: 500; word-wrap: break-word">more colours than sRGB</div>
+        <div style="left: 809px; top: 315px; position: absolute; color: white; font-size: 128px; font-family: Inter; font-weight: 500; word-wrap: break-word">25%</div>
+        <div style="width: 417px; height: 29px; left: 41px; top: 32px; position: absolute; color: white; font-size: 24px; font-family: Inter; font-weight: 500; word-wrap: break-word">P3 wide colour gamut</div>
+        <div style="left: 41px; top: 300px; position: absolute; color: white; font-size: 64px; font-family: Inter; font-weight: 500; word-wrap: break-word">A wider palette<br/> of colours <br/>on display.</div>
+      </div>
+</body>
+</html>
